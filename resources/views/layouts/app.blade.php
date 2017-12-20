@@ -69,6 +69,12 @@
   </div>
 
     <!-- Scripts -->
-    <script src="{{ asset('js/app.js') }}"></script>
+    <!-- <script>
+      var del = document.getElementById('delete');
+      del.addEventListener('click', function() {
+        alert('sdafd');
+      });
+    </script>
+    <script src="{{ asset('js/app.js') }}"></script> -->
 </body>
 </html>
